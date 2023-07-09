@@ -20,11 +20,11 @@ return (
       <Link href="/">Veer Pratap Singh Tomar</Link>
     </h1>
     <ul className="list-none inline-block text-base leading-6 text-left float-left">
-      <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="">About</Link></li>
-      <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/research/">Research</Link></li>
+      <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/about">About</Link></li>
+      {/* <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/research/">Research</Link></li> */}
       <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="opensource.html">OpenSource</Link></li>
-      <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/photography/">Photography</Link></li>
-      <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/cv/">CV</Link></li>
+      {/* <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/photography/">Photography</Link></li> */}
+      {/* <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/cv/">CV</Link></li> */}
       <li className="inline-block mr-4"><Link className="page-link text-black hover:text-teal-500" href="/blog/">Blog</Link></li>
       
       <li className="inline-block mr-4">
