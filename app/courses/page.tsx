@@ -62,7 +62,7 @@ const Courses = () => {
               </p>
             </li>
             <li className="flex items-center px-20 h-20">
-              <p className="flex-0 w-1/4">3. Can't Stop the Feeling!</p>
+              <p className="flex-0 w-1/4">3. Can&apos;t Stop the Feeling!</p>
               <p className="flex-0 w-1/4">Catin Cimberlake</p>
               <p className="flex-0 w-1/4">3:56</p>
               <p className="flex-0 w-1/4">
