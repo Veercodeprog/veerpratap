@@ -93,8 +93,8 @@ const Courses = () => {
             alt="Album cover"
           />
           <div>
-            <p>If It Ain't Love</p>
-            <p>Catson Derulo</p>
+ <p>If It Ain&apos;t Love</p>
+           <p>Catson Derulo</p>
           </div>
         </div>
         <div className="catty-music-controls flex items-center">
