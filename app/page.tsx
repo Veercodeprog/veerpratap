@@ -117,60 +117,6 @@ export default function Home() {
               ideas to life.
             </p>
           </div>
-          <div className="flex flex-col items-center">
-            <h2 id="inspiderweb" className="text-2xl font-bold mt-8 mb-4">
-              {' '}
-              Project Reviews App{' '}
-            </h2>
-            <div className="project-meta text-gray-500 text-sm mb-4">
-              <div className="context font-bold">
-                dynamic web application built with Next.js, utilizing Strapi as
-                the backend and Firebase Authentication
-              </div>
-            </div>
-            <div className="badges mb-4">
-              <Link href="" className="fa fa-github" />
-            </div>
-            <div className="project-description text-justify">
-              <p>
-                <Link href="" className="text-green-600 font-bold">
-                  Project Reviews App:{' '}
-                </Link>{' '}
-                Within the app, users have the freedom to add their own reviews
-                and recommendations for different programming tools. They can
-                rate and provide insightful feedback, helping other users make
-                informed decisions when choosing the right tools for their
-                projects. The Project Reviews App empowers the programming
-                community to connect, collaborate, and share theirexpertise, creating a valuable resource for individuals seeking reliable and unbiased opinions on technical programming tools.
-            </p>
-          </div>
-        </div>
-        <div className="flex flex-col items-center">
-          <h2 id="inspiderweb" className="text-2xl font-bold mt-8 mb-4">
-            {' '}
-            Raksa
-          </h2>
-          <div className="project-meta text-gray-500 text-sm mb-4">
-            <div className="context font-bold">
-              Next.js application designed exclusively for the astrology
-              community, providing a platform for astrologers and enthusiasts
-              to connect and share their insights through video calls and chat
-              functionalities
-            </div>
-          </div>
-          <div className="badges mb-4">
-            <Link href="" className="fa fa-github" />
-          </div>
-          <div className="project-description text-justify">
-            <p>
-              <Link href="" className="text-green-600 font-bold">
-                Project Reviews App:{' '}
-              </Link>
-              Using Agora RTC (Real-Time Communication) technology, Raksa enables astrologers to establish high-quality video calls with their clients. This facilitates a personal and interactive consultation experience, bridging the gap between astrologers and those seeking their expertise. Users can engage in real-time conversations, ask questions, and receive valuable guidance from trusted astrologers, all from the comfort of their own devices.
-
-              In addition to video calls, Raksa incorporates Agora Chat, allowing users to communicate via text messages. This feature fosters a sense of community, enabling astrologers and enthusiasts to connect, share knowledge, and discuss various astrological topics in dedicated chat rooms. Users can exchange ideas, ask for recommendations, and form connections with like-minded individuals who share a passion for astrology.
-            </p>
-          </div>
         </div>
       </section>
     </>
