@@ -57,7 +57,7 @@ return (
         </Link>
       </li>
       <li className="inline-block mr-4">
-        <Link href="https://www.linkedin.com/in/veer-pratap-singh-tomar/" title="Follow on LinkedIn">
+        <Link href="/" title="Follow on LinkedIn">
           <FontAwesomeIcon icon={faLinkedin} className="w-5 h-5" />
         </Link>
       </li>
