@@ -11,7 +11,7 @@ function MainHeader() {
   return (
     <header
       className=" py-5 site-header bg-white border-b-2 shadow-sm border-gray-200 inline-block w-full"
-      style="margin-left: 8px"
+      style={{ marginLeft: "8px" }}
     >
       <div className="branding">
         <Link href="/">
