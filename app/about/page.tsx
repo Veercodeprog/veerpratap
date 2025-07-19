@@ -13,7 +13,7 @@ import { faUser } from "@fortawesome/free-solid-svg-icons";
 
 const AboutPage = () => {
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center" style="margin: 8px">
       <div className="content max-w-lg">
         <article>
           <header
