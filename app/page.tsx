@@ -19,7 +19,7 @@ export default function Home() {
             </div>
           </div>
         </Link>
-        <div className="flex flex-col items-center" style="margin: 8px">
+        <div className="flex flex-col items-center" style={{ margin: "8px" }}>
           <h2 id="inspiderweb" className="text-2xl font-bold mt-8 mb-4">
             {" "}
             Movies Review App using IBM Cloud NLU, Cloudant &amp; CI/CD Pipeline

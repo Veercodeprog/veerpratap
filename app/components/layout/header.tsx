@@ -54,7 +54,14 @@ function MainHeader() {
               Blog
             </Link>
           </li>
-
+          <li className="inline-block mr-4">
+            <Link
+              className="page-link text-black hover:text-teal-500"
+              href="/hire"
+            >
+              Hire
+            </Link>
+          </li>
           <li className="inline-block mr-4">
             <Link target="_blank" href="">
               <FontAwesomeIcon icon={faEnvelope} />
