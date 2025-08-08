@@ -13,7 +13,7 @@ import { faUser } from "@fortawesome/free-solid-svg-icons";
 
 const AboutPage = () => {
   return (
-    <div className="flex justify-center" style="margin: 8px">
+    <div className="flex justify-center" style={{ margin: "8px" }}>
       <div className="content max-w-lg">
         <article>
           <header
@@ -38,7 +38,7 @@ const AboutPage = () => {
 
             {/* banner_title: About me */}
             <div className="mepage">
-              <p className=" text-xl text-justify space-y-2 text-gray-900 sm:text-base; ">
+              <p className=" text-xl text-justify space-y-2 text-gray-900 sm:text-base ">
                 As a computer science graduate, <a href=""></a> I am incredibly
                 passionate about immersing myself in the vast and exciting world
                 of machine learning applications, decentralized applications
@@ -51,7 +51,7 @@ const AboutPage = () => {
                 </a>
                 .
               </p>
-              <p className="mt-8 text-xl text-justify space-y-2 text-gray-900 sm:text-base;">
+              <p className="mt-8 text-xl text-justify space-y-2 text-gray-900 sm:text-base">
                 I have a strong love for coding and computers, which motivates
                 me to create practical and innovative solutions that solve
                 real-world problems. Mathematics is my true passion, driving me
